@@ -1,4 +1,8 @@
 _repo: Vapauden-kirja-Runovalikoima_49457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leino, Eino
@@ -17,6 +21,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Eino_Leino
     - http://en.wikipedia.org/wiki/Eino_Leino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49457#Vapauden-kirja-Runovalikoima
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
